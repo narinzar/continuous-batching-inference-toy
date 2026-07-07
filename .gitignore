@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.egg-info/
+checkpoints/
+.ipynb_checkpoints/
+*.pyc
+data/*
+!data/README.md
+outputs/*
+!outputs/README.md
